@@ -31,9 +31,10 @@ Añade tu clave API en la aplicacion en la seccion de **API KEY**
 
 ### 🚨 Recuerda:
 Asegúrate de tener tus credenciales API configuradas correctamente para que la aplicación funcione sin problemas. Si no configuraste tu clave API correctamente, la app no podrá interactuar con los servicios de OpenAI.
-```bash
-Nota: La demo está pensada para ofrecer una experiencia rápida y sencilla. Si deseas modificar la app o realizar pruebas más avanzadas, te recomendamos que sigas los pasos anteriores de instalación y configuración.
-```
+
+> **Nota:**  
+> La demo está diseñada para ofrecer una experiencia rápida y sencilla. Si deseas modificar la aplicación o realizar pruebas más avanzadas, te recomendamos seguir los pasos de instalación y configuración detallados anteriormente.
+
 
 ## 🛠️ Tecnologías Usadas
 #### **Expo** (para desarrollo de aplicaciones multiplataforma)
